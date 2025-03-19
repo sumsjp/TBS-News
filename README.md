@@ -1,8 +1,8 @@
-# TBS News (2025-03-18)
+# TBS News (2025-03-19)
 
 ---
 
-- [0021~0027](pages/01-index.md)
+- [0021~0028](pages/01-index.md)
 - [0001~0020](pages/00-index.md)
 
 ---
